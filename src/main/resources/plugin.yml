@@ -1,0 +1,9 @@
+name: DoNotPutThere
+main: to.px.marbow.DoNotPutThere.DoNotPutThere
+version: 1.9.2
+commands:
+  dnpt:
+    description: '置いちゃダメダメ'
+    usage: '/<command> ヘルプを表示します'
+    permission: donotputthere.dnpt
+    permittion-message: '<permission>を実行する権限がありません'

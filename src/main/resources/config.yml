@@ -1,0 +1,5 @@
+DNPTEnable: true
+Plase:
+  world:
+    hopper:
+      enabled: true
